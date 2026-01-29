@@ -21,7 +21,7 @@ export default function Contact() {
     {
       icon: <Phone className="w-6 h-6" />,
       label: 'Phone',
-      value: '0758 957 926',
+      value: '+254 758 957 926',
       href: 'tel:+254758957926',
     },
     {
@@ -102,7 +102,7 @@ export default function Contact() {
                   className="inline-flex items-center justify-center w-10 h-10 bg-primary/10 hover:bg-primary/20 rounded-lg text-primary transition-colors"
                   aria-label="Instagram"
                 >
-                  📱
+                 🖁
                 </a>
                 <a
                   href="https://wa.me/254758957926"

@@ -121,7 +121,7 @@ export default function Footer() {
                 className="flex items-center gap-3 opacity-80 hover:opacity-100 transition-opacity"
               >
                 <Phone className="w-4 h-4 text-primary flex-shrink-0" />
-                <span>0758 957 926</span>
+                <span>+254 758 957 926</span>
               </a>
               <a
                 href="mailto:zionflamekeepers@gmail.com"
@@ -142,7 +142,7 @@ export default function Footer() {
           <p>
             © {currentYear} The Zion Flamekeepers. All rights reserved. | Nairobi, Kenya
           </p>
-          <p className="mt-2">Ignite Your Strength. Fuel Your Wellness. 🔥</p>
+          <p className="mt-2">Ignite Your Strength. Fuel Your Wellness.</p>
         </div>
       </div>
     </footer>

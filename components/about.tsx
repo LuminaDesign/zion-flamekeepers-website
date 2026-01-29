@@ -29,6 +29,7 @@ export default function About() {
           <div className="relative h-80 md:h-96 rounded-2xl overflow-hidden">
             <Image
               src="https://img.playbook.com/_NjHNS-fp-dJSJqDh-fZ8xcOPsLS_Lt5AzmSRL5CIMY/w:1000/aHR0cHM6Ly9wcm9k/LnBsYXlib29rYXNz/ZXRzLmNvbS92MC8w/L3Byb2QvbGFyZ2Vf/cHJldmlld3MvN2Qw/N2QwOTctZTE3NC00/NTlmLWE5ZDgtYTIz/ZWI4NWU1MTkwP3R0/bD1ob3VybHkmdmVy/aWZ5PTE3Njk2MjMx/OTktQ2JYVlgxbEFJ/cktOJTJCVW1BRnlZ/amY5QiUyQnFSTXVS/ODdlTVJHRzRuQ1Va/WEUlM0Q.webp"
+              src='https://i.ibb.co/VpMTTRJF/The-zion-Flame-Keepers.jpg'
               alt="The Zion Flamekeepers Coaching Team"
               fill
               className="object-cover"

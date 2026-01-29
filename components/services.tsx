@@ -7,6 +7,7 @@ import {
   Users,
   Heart,
   Mountain,
+  HandHeart,
 } from 'lucide-react'
 
 interface Service {
@@ -17,6 +18,12 @@ interface Service {
 }
 
 const services: Service[] = [
+  {
+    title: 'Flamekeepers C.A.R.E',
+    description: 'Community Action, Reach & Empowerment',
+    icon: <HandHeart className="w-8 h-8" />, // Suggesting HandHeart for charity
+    items: ['Tree House Children’s Home Visit', 'Donation Drives', 'Community Outreach'],
+  },
   {
     title: 'Performance Training',
     description: 'Unlock your peak potential',

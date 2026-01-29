@@ -7,7 +7,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://img.playbook.com/Aupgy0HTKal2kUX62W5-4kR0C6pQcbD_OK-QQ9r51jE/w:1000/aHR0cHM6Ly9wcm9k/LnBsYXlib29rYXNz/ZXRzLmNvbS92MC8w/L3Byb2QvbGFyZ2Vf/cHJldmlld3MvMGZk/ZmUxMzItZTU5ZC00/NjBhLTk5NWUtNDFj/NTMyNGQ5MDE3P3R0/bD1ob3VybHkmdmVy/aWZ5PTE3Njk2MTIz/OTktbW1iTVphWjlw/M2N1UENaN1NvJTJG/bmNraFlyNjYlMkJZ/S2g0R05BaTUlMkZO/T0MzRSUzRA.webp"
+          src='https://img.playbook.com/PpQzJL63PwhaklrnUq6wi28o4ygU0o7slkRSVojJdiM/w:1200/aHR0cHM6Ly9wcm9k/LnBsYXlib29rYXNz/ZXRzLmNvbS92MC8w/L3Byb2QvbGFyZ2Vf/cHJldmlld3MvNTVh/MjE4YWYtNTExNy00/NjdkLTg0Y2MtOTI1/ZTQ1ZWI5N2RjP3R0/bD1ob3VybHkmdmVy/aWZ5PTE3Njk2OTg3/OTktbUI1UmpDSG9h/S1lNRjJPNUclMkJi/NlA3WThGQVhySk1Q/UEUyNlBJUFphajM4/JTNE.webp'
           alt="Zion Flamekeepers Coaching Team - Arboretum Run"
           fill
           className="object-cover"
