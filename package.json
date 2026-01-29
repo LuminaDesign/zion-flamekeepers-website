@@ -1,4 +1,6 @@
 {
+   "Homepage":"http://LuminaDesign.github.io/zion-flamekeepers-website",
+  "homepage": "https://zionflamekeepers.com",
   "name": "zion-flamekeepers-website",
   "version": "0.1.0",
   "private": true,
@@ -6,7 +8,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
