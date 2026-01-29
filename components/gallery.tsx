@@ -119,6 +119,8 @@ export default function Gallery() {
                 'https://img.playbook.com/E68gQ_v8Sb_VDb85HTlvctmFz1YMQf8tEoxLJxQGnuE/w:1000/aHR0cHM6Ly9wcm9k/LnBsYXlib29rYXNz/ZXRzLmNvbS92MC8w/L3Byb2QvbGFyZ2Vf/cHJldmlld3MvYTRj/ZGU3ZjctNTkxYy00/N2Y5LWE4ZjgtZTMx/MjM2MWM5ZGI1P3R0/bD1ob3VybHkmdmVy/aWZ5PTE3Njk2OTUx/OTktUG4xbEh4VlJ4/eiUyRllvNmtrM2R3/N0daSlQ1UGtrdTRw/YU8zanR4aFlxeHQ4/JTNE.webp',
                 'https://img.playbook.com/W3_VKliPsfUilM2rRpz_Dqou_EfkbF8IzoRpxN8UGoA/w:1200/aHR0cHM6Ly9wcm9k/LnBsYXlib29rYXNz/ZXRzLmNvbS92MC8w/L3Byb2QvbGFyZ2Vf/cHJldmlld3MvZjI0/MjNhMWItNjYyOS00/ZWI4LTkzNGUtMTIx/MWI2YjJkMGQ2P3R0/bD1ob3VybHkmdmVy/aWZ5PTE3Njk2OTUx/OTktUHhpQk5xT1hm/VSUyQnZ6eVREcyUy/QlUyb3NoeWdpVzBW/U1dqNFUzaG5FMFVY/OFklM0Q.webp',
                 'https://img.playbook.com/lOtP0Lj4gnLNMI3xyhryEBRSqx35ZDMHlt3IKm86RwU/w:1200/aHR0cHM6Ly9wcm9k/LnBsYXlib29rYXNz/ZXRzLmNvbS92MC8w/L3Byb2QvbGFyZ2Vf/cHJldmlld3MvYzVk/YzExZDktM2RlZi00/ODUwLWIyZGYtMDRh/YjA1YTVlNWRiP3R0/bD1ob3VybHkmdmVy/aWZ5PTE3Njk2OTUx/OTktb0FQYUd5OVNq/S052MDNoeDhudlJU/blZsaXFEbkx5ayUy/RjJNSlc4dWtRYldV/JTNE.webp',
+                'https://img.playbook.com/600FdhXwJ7vlfQEAMJxsmhuZwRkAdd2EEFaUp9Z2e5w/w:500/aHR0cHM6Ly9wcm9k/LnBsYXlib29rYXNz/ZXRzLmNvbS92MC8w/L3Byb2QvcHJldmll/d3MvZmU2NzM2MmEt/NzFjZi00MDQ1LTgz/NzItNmY5NzQyNTkw/MTJjP3R0bD1ob3Vy/bHkmdmVyaWZ5PTE3/Njk2OTg3OTktWiUy/RnV6bTNFVCUyQkFz/NHM3aGJpRmhkcjlZ/aUZBc0t5cHcyMTkw/WjRYd1RSOEUlM0Q.webp',
+                ''
             ].map((image, i) => (
               <div
                 key={i}
