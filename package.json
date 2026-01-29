@@ -1,5 +1,4 @@
 {
-   "Homepage": "http://LuminaDesign.github.io/zion-flamekeepers-website",
    "homepage": "https://zionflamekeepers.com",
    "name": "zion-flamekeepers-website",
    "version": "0.1.0",
@@ -65,7 +64,7 @@
       "zod": "3.25.76"
    },
    "devDependencies": {
-      "@tailwindcss/postcss": "^4.1.9",
+      "@tailwindcss/postcss": "^4.1.18",
       "@types/node": "^22",
       "@types/react": "^19",
       "@types/react-dom": "^19",
