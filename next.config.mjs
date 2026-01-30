@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
-  basePath: process.env.NODE_ENV === 'production' ? '/zion-flamekeepers-website' : '',
+  basePath: '/zion-flamekeepers-website',
   images: {
     unoptimized: true,
   },
