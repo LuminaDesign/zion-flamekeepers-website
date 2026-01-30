@@ -1,16 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  trailingSlash: true,
-  basePath: '/zion-flamekeepers-website',
+  typescript: {
+    ignoreBuildErrors: true,
+  },
   images: {
     unoptimized: true,
-  },
-  typescript: {
-    ignoreBuildErrors: true, // Keeping this as per your previous config
-  },
-  turbopack: {
-    root: './',
   },
 }
 
